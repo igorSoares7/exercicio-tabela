@@ -1,5 +1,2 @@
 # exercicio-tabela
-este é um repositório
-sss
-
-# teste 01
+este é um repositório para o exercício-tabela
